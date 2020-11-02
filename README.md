@@ -1,5 +1,5 @@
 # COOJA_WINDOWS
-COPY from ORIGINAL https://github.com/contiki-os/contiki for LINUX
+COPY from ORIGINAL and ALL CREDITS TO : https://github.com/contiki-os/contiki for LINUX
 
 After tiring efforts to install this I tried to get it on windows successfully!! DO STAR IT!!
 
@@ -15,6 +15,8 @@ install git bash tick add functions to cmd
 ```install choco``` : https://chocolatey.org/docs/installation
 
 ```choco install ant```
+
+set ANT_HOME, JAVA_HOME, COPY Tools.jar from jdk\lib to jre\ext
 
 set JAVA_HOME as ![alt text](https://github.com/gptshubham595/COOJA_WINDOWS/blob/main/1.png)
 
