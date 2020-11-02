@@ -3,6 +3,8 @@ COPY from ORIGINAL https://github.com/contiki-os/contiki for LINUX
 
 After tiring efforts to install this I tried to get it on windows successfully!! DO STAR IT!!
 
+ ![alt text](https://github.com/gptshubham595/COOJA_WINDOWS/blob/main/cooja2.png)
+ 
  ![alt text](https://github.com/gptshubham595/COOJA_WINDOWS/blob/main/cooja.png)
 
 
