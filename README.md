@@ -6,16 +6,18 @@ After tiring efforts to install this I tried to get it on windows successfully!!
  ![alt text](https://github.com/gptshubham595/COOJA_WINDOWS/blob/main/cooja.png)
 
 
-git clone https://github.com/gptshubham595/COOJA_WINDOWS
+```git clone https://github.com/gptshubham595/COOJA_WINDOWS```
+
 install git bash tick add functions to cmd
 
-install choco
-choco install ant
+```install choco``` : https://chocolatey.org/docs/installation
+
+```choco install ant```
 
 set JAVA_HOME as ![alt text](https://github.com/gptshubham595/COOJA_WINDOWS/blob/main/1.png)
 
 set in path variable as ![alt text](https://github.com/gptshubham595/COOJA_WINDOWS/blob/main/2.jpg)
 
 
-tools/cooja: ant run
+```contiki-ng/tools/cooja: ant run```
 
